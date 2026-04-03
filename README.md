@@ -16,7 +16,8 @@ FinScan is an interactive SME Financial Health Intelligence dashboard that turns
 
 Built for the Indian SME context with compliance checks mapped to **GST, KYC/KYB, FEMA, and AML regulations**.
 
----
+---<img width="1884" height="921" alt="Screenshot 2026-04-03 142445" src="https://github.com/user-attachments/assets/dacace8f-6288-4dbb-a1af-831e815407e7" />
+
 
 ## ✨ Features
 
@@ -27,6 +28,7 @@ Multi-dimensional scoring engine across 5 weighted pillars:
 - **Liquidity** (20 pts) — Cash runway and debt-to-revenue
 - **Transaction Health** (15 pts) — Large-value and cross-border exposure
 - **Operational Maturity** (15 pts) — Tenure, team size, governance
+<img width="1877" height="920" alt="Screenshot 2026-04-03 142509" src="https://github.com/user-attachments/assets/a8b1db65-1802-4c96-8eeb-d4c2dbb36b91" />
 
 ### 🚨 Anomaly & Risk Detection
 Real-time flagging of:
@@ -36,6 +38,7 @@ Real-time flagging of:
 - Cash runway crisis alerts
 - Chronic late payment patterns
 - GST compliance breaches
+<img width="1887" height="909" alt="Screenshot 2026-04-03 142538" src="https://github.com/user-attachments/assets/161e5da3-3a6c-4f91-aa52-b83e9ddd70ec" />
 
 ### 📈 12-Month Financial Forecast
 - Dual-axis revenue vs expense trend
